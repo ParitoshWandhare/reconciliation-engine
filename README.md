@@ -27,7 +27,7 @@ A production-grade Node.js service that ingests crypto transaction data from two
 ### Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ParitoshWandhare/reconciliation-engine.git
 cd transaction-reconciliation-engine
 
 npm install
